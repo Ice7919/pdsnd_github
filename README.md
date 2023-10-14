@@ -4,10 +4,9 @@
 14/09/2023
 
 ### Explore US bikeshare data
-Replace the Project Title
 
 ### Description
-Compares the system usage between major cities in US.
+Compares the system usage between major cities in US. The US bikehare data is a system that alllows you to rent bike for a reasinable amount of money.
 
 ### Files used
 `bikeshare.py`
