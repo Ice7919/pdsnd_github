@@ -33,7 +33,7 @@ def check_user_input(user_input,input_type):
 
 def get_filters():
 
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Let\'s explore the US bikeshare data')
 
     # get user input for city (chicago, new york city, washington), and check user input validity
     city = check_user_input("Would you like to see the data for chicago, new york city or washington?\n",'c')
