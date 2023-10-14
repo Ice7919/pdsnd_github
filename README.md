@@ -9,8 +9,9 @@
 Compares the system usage between major cities in US. The US bikehare data is a system that alllows you to rent bike for a reasinable amount of money.
 
 ### Files used
-`bikeshare.py`
-`bikeshare.csv`
+```chiacgo.csv```
+```washington.csv```
+```new-york-city.csv```
 ### Credits
 ```http://www.python.org```
 ```https://www.anaconda.com```
