@@ -187,7 +187,7 @@ def show_row_data(df):
         elif view_raw_data == "n":
             break
         else: #validate user input
-            print("Sorry! You input is wrong, Kindly try Again!")
+            print("Sorry! Try inputing another data!")
 
 
 def main():
